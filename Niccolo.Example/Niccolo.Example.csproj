@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>NiccoloExample.Program</StartupObject>
+    <StartupObject>Niccolo.Example.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
