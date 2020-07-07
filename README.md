@@ -1,8 +1,8 @@
 # Niccolo
 
 Niccolo is an easy-to-use orchestration framework for
-[.Net Applications in Apache Spark](https://github.com/dotnet/spark). Niccolo makes it quick and
-easy to write .Net applications and submit them to Apache Spark clusters.
+[.NET for Apache Spark](https://github.com/dotnet/spark) applications. Niccolo makes it quick and
+easy to write .NET applications and submit them to Apache Spark clusters.
 
 ## Use cases
 
