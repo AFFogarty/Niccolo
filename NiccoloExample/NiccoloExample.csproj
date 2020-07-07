@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>NiccoloExample.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Niccolo.Bootstrapper\Niccolo.Bootstrapper.csproj" />
+    <ProjectReference Include="..\Niccolo\Niccolo.csproj" />
+  </ItemGroup>
+
+</Project>
