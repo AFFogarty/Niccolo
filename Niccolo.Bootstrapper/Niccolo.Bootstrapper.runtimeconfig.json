@@ -1,0 +1,10 @@
+﻿// we have to manually add this so that a child project will have access to it.
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "3.1.0"
+    }
+  }
+}
