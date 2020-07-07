@@ -22,7 +22,7 @@ using Microsoft.Spark.Sql;
 using Niccolo.Cluster.Local;
 using Niccolo.Interfaces;
 
-namespace NiccoloExample
+namespace Niccolo.Example
 {
     /// <summary>
     /// Example Spark batch application.
