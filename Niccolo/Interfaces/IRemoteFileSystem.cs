@@ -9,7 +9,7 @@
         /// Upload a file from the local machine to a temporary path on the remote file system.
         /// </summary>
         /// <param name="localFilePath">The path to the file on the local machine.</param>
-        /// <returns></returns>
+        /// <returns>Disposable object representing the temp file.</returns>
         IRemoteTempFile UploadTempFile(string localFilePath);
     }
 }
